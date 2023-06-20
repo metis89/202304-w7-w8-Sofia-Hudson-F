@@ -1,11 +1,9 @@
 {
   "name": "week8",
   "version": "1.0.0",
-  "description": "Bootcamp 2023_04 - Week 2.5: Web",
   "main": "index.js",
   "keywords": [],
   "author": "Sofia Hudson",
-  "license": "ISC",
   "type": "module",
   "scripts": {
     "build": "tsc --watch",
